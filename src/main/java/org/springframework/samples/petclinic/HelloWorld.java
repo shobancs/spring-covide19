@@ -4,7 +4,7 @@ class HelloWorld
 { 
 	
 	void wfh(){
-		System.out.println("How many days");
+		System.out.println("How many days @home");
 	}
 		
 	// Your program begins with a call to main(). 
