@@ -2,6 +2,11 @@
 FileName : "HelloWorld.java". */
 class HelloWorld 
 { 
+	
+	void wfh(){
+		System.out.println("How many days");
+	}
+		
 	// Your program begins with a call to main(). 
 	// Prints "Hello, World" to the terminal window. 
 	public static void main(String args[]) 
